@@ -1,0 +1,5 @@
+Meus estudos de Git e GitHub
+
+Aula 1: Fundamentos do Git e GitHub.
+Aula 2: Instalação e configuração do Git.
+Aula 3: Criação de um repositório.
